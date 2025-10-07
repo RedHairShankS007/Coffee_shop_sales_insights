@@ -1,16 +1,51 @@
-# Coffee_shop_sales_insights
-Exploring Coffee Sales with EDA and Visualization. Analyzing Coffee Shop Sales Trends and Customer Purchasing Behavior.
-# **OBJECTIVE**- To analyse the coffee shop sales dataset in order to find trends and customer purchasing behavior by using suitable EDA and data visulisation techniques.
-# **ABOUT DATASET**-This dataset contains 3,547 coffee shop sales record collected over different days and months. It includes details such as the type of coffee purchased, transaction amount, payment method, date, and time-related attributes (hour, weekday, and month). The data can be used for sales trend analysis, customer behavior observation and sales prediction.
-Key features:
-*Hour_of_day*:Hour of purchase
-*Cash_type* :Payment method (cash/card)
-*Money* :Transaction amount
-*Coffee_name* :Type of coffee purchased
-*Time_of_Day* :Categorized time slots (Morning, Afternoon orEvening)
-*Weekday* and *Month_name* : Day and month of purchase
-*Date* and *Time* :Exact transaction timestamp
-# **PROBLEM STATEMENTS**:
-1.Identify peak sales hours and best-selling coffee types
-2.Compare payment method preferences
-3.Study customer behavior across weekdays and months
+# ☕ Coffee Shop Sales Insights
+
+Exploring coffee sales trends and customer purchasing behavior using EDA and data visualization.
+
+---
+
+## 🎯 Objective
+
+To analyze the coffee shop sales dataset in order to uncover trends and customer purchasing behavior using suitable exploratory data analysis (EDA) and visualization techniques.
+
+---
+
+## 📦 Dataset Overview
+
+This dataset contains **3,547 coffee shop sales records** collected over various days and months. It includes:
+
+- Type of coffee purchased
+- Transaction amount
+- Payment method
+- Date and time-related attributes (hour, weekday, and month)
+
+---
+
+### 🔑 Key Features
+
+- `Hour_of_day`: Hour of purchase  
+- `Cash_type`: Payment method (Cash/Card)  
+- `Money`: Transaction amount  
+- `Coffee_name`: Type of coffee purchased  
+- `Time_of_Day`: Categorized time slots (Morning, Afternoon, Evening)  
+- `Weekday`: Day of the week  
+- `Month_name`: Month of purchase  
+- `Date`: Exact date of transaction  
+- `Time`: Exact time of transaction  
+
+---
+
+## ❓ Problem Statements
+
+1. **Identify peak sales hours and best-selling coffee types**  
+2. **Compare payment method preferences**  
+3. **Study customer behavior across weekdays and months**
+
+---
+
+## 📊 Tools & Libraries
+
+- Python 3.10+
+- Pandas
+- Matplotlib
+- Seaborn
