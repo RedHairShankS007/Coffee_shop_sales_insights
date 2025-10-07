@@ -42,7 +42,12 @@ This dataset contains **3,547 coffee shop sales records** collected over various
 3. **Study customer behavior across weekdays and months**
 
 ---
+## 📂 Files
 
+- 📄 [Dataset: `coffee_shop_sales.csv`](https://github.com/RedHairShankS007/Coffee_shop_sales_insights/blob/main/Coffe_sales.csv)  
+- 📓 [Notebook: `coffee_shop_sales_insights.ipynb`](https://github.com/RedHairShankS007/Coffee_shop_sales_insights/blob/main/coffee_shop_sales_insights.ipynb)
+
+---
 ## 📊 Tools & Libraries
 
 - Python 3.10+
